@@ -10,3 +10,8 @@ https://www.dropbox.com/scl/fi/f6z79oxraon6agerlg62c/Homested.zip?rlkey=0c5z89xq
 2.) You should see something like this: 
 
 <img width="492" height="223" alt="image" src="https://github.com/user-attachments/assets/200ba815-a482-46c2-84c7-7d76ca115d14" />
+
+3.) Now you need to download the Fabric Mod Loader for 1.20.1 MC. 
+
+link: https://fabricmc.net/use/installer/
+
