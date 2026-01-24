@@ -15,24 +15,32 @@ https://www.dropbox.com/scl/fi/f6z79oxraon6agerlg62c/Homested.zip?rlkey=0c5z89xq
 
 link: https://fabricmc.net/use/installer/
 <img width="436" height="262" alt="image" src="https://github.com/user-attachments/assets/6db7ca8d-605b-4254-a0e2-42dbedf5d84d" />
+
 Make sure the install looks just like this, you need to be in the client tab, not the server tab
 
 4.) After the install is done, open the MC launcher
  <img width="1095" height="595" alt="image" src="https://github.com/user-attachments/assets/5440208a-ae46-436f-ab0d-f1cc038cdc99" />
+ 
 Make sure the Fabric install is picked and click installations 
+
 Then Click tis folder icon, your .minecraft folder should open. If it doesn't pop up, just check the Windows bar. 
+
 5.) Now go back to the 1st folder where you unzipped the 1st folder to copy and paste all of those files into your .minecraft folder. 
 
 6.) This transfer will take along time, after it's done open your mc launcher again back at the installations tab
 
 <img width="1007" height="98" alt="image" src="https://github.com/user-attachments/assets/96b73d2c-533d-4170-a2a8-ed3474466987" />
+
 Click the three dots and choose the edit option.
 
 <img width="916" height="644" alt="image" src="https://github.com/user-attachments/assets/197320ce-bde6-4180-81d6-201fa4938cf8" />
+
 Click more options.
 
 <img width="680" height="656" alt="image" src="https://github.com/user-attachments/assets/c429e35c-aa8e-4c51-a0d3-eef90ebdc2a0" />
+
 Only look at the part in the red box, change the number after -Xmx to 8 if you have 16gb of RAM in pc, 4 if you have 8gb RAM.
+
 JJ, you go with 4.
 
 7.) Click Save and then press play. 
