@@ -26,6 +26,10 @@ Make sure the Fabric install is picked and click on the installations
 
 Then Click this folder icon, your .minecraft folder should open. If it doesn't pop up, just check the Windows bar. 
 
+<img width="1007" height="83" alt="image" src="https://github.com/user-attachments/assets/a350f227-c2b1-49f1-8147-cce128638074" />
+
+
+
 5.) Now go back to the 1st folder where you unzipped the 1st folder to copy and paste all of those files into your .minecraft folder. 
 
 6.) This transfer will take a long time. After it's done, open your MC launcher again to the installations tab
