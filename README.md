@@ -51,7 +51,7 @@ Only look at the part in the red box, change the number after -Xmx to 8 if you h
 
 JJ, you go with 4.
 
-7.) Click Save and then press play server ip is: 16.58.78.188 
+7.) Click Save and then press play.  Server ip is: 16.58.78.188 
 
 
 
