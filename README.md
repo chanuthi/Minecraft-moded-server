@@ -27,6 +27,7 @@ Click the 3 dots on the Forge 1.20.1 installation then click edit.
 
 <img width="1084" height="583" alt="image" src="https://github.com/user-attachments/assets/9006ca7c-e0bf-4001-91d2-02253fbf2a1e" />
 
+
 Click the MORE OPTIONS drop-down at the bottom. 
 
 <img width="470" height="81" alt="image" src="https://github.com/user-attachments/assets/c055c705-de38-4d96-bf71-8cae0b2e8e94" />
