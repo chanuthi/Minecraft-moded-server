@@ -18,7 +18,7 @@ You should see this pop up:
 
 click ok and install the 1.20.1 client, make sure it's the client.
 
-Now open the MC launcher, you should see the Forge 1.20.1 there.
+Now open the MC launcher, and you should see the Forge 1.20.1 there.
 
 Click on installations up top.
 
@@ -26,7 +26,7 @@ Click on installations up top.
 
 
 
-Click the 3 dots on the Forge 1.20.1 installation then click edit.
+Click the 3 dots on the Forge 1.20.1 installation, then click edit.
 
 
 
@@ -74,6 +74,8 @@ Close the folder.
 Open the MC launcher and click play Forge 1.20.1
 
 The server IP is: 18.116.213.122
+
+Video tutorial: https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 
 
