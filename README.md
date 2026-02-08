@@ -33,7 +33,9 @@ Click the 3 dots on the Forge 1.20.1 installation then click edit.
 
 Click the MORE OPTIONS drop-down at the bottom. 
 
+
 <img width="470" height="81" alt="image" src="https://github.com/user-attachments/assets/c055c705-de38-4d96-bf71-8cae0b2e8e94" />
+
 
 On this line, change whatever number after -Xmx to either 6 or 8, but not more than 10 (depends on how much ram your pc has, I would start at 4 and go up if needed).
 
