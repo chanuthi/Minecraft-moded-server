@@ -2,7 +2,9 @@
 
 Guide to Install all files needed for Momestead Mod Pack
 
-Go to this link: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html 
+Go to this link: 
+
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html 
 
 Click on either installer button, you will be redirected to a new page, wait 5 seconds, and click the skip or next button that pops up at the top right of the screen. 
 
@@ -54,7 +56,9 @@ You should see your .minecraft folder open up. In that same folder, open the mod
 Open the mods folder, delete all content in it 
 (ctrl+A then del key on keyboard)
 
-Now open this link: https://www.dropbox.com/scl/fo/828iog3x0wyrwn5rkt4jt/AE4-oPs6Y8vlC8bIXCjLrSw?rlkey=gye9j228imhnnm7yhq38nx3dm&st=q5phs3cj&dl=0
+Now open this link:
+
+https://www.dropbox.com/scl/fo/828iog3x0wyrwn5rkt4jt/AE4-oPs6Y8vlC8bIXCjLrSw?rlkey=gye9j228imhnnm7yhq38nx3dm&st=q5phs3cj&dl=0
 
 Install the mods folder from Dropbox.
 
