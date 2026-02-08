@@ -23,7 +23,10 @@ Click on installations up top.
 <img width="764" height="803" alt="image" src="https://github.com/user-attachments/assets/936b69bb-4019-4288-bb32-5ea2745049f3" />
 
 
+
 Click the 3 dots on the Forge 1.20.1 installation then click edit.
+
+
 
 <img width="1084" height="583" alt="image" src="https://github.com/user-attachments/assets/9006ca7c-e0bf-4001-91d2-02253fbf2a1e" />
 
