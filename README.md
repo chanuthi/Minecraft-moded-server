@@ -1,6 +1,6 @@
 
 
-Guide to Install all files needed for Momestead Mod Pack
+Guide to SWAG
 
 Go to this link: 
 
