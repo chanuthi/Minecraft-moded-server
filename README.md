@@ -58,7 +58,7 @@ Open the mods folder, delete all content in it
 
 Now open this link:
 
-https://www.dropbox.com/scl/fo/828iog3x0wyrwn5rkt4jt/AE4-oPs6Y8vlC8bIXCjLrSw?rlkey=gye9j228imhnnm7yhq38nx3dm&st=q5phs3cj&dl=0
+https://www.dropbox.com/scl/fo/qogxgppt0rcdju6fqi81n/AKGtkVSkZe88L14XhDoTyVE?rlkey=upp006l9kz8mxdddzdopvbrjw&st=1msow1fh&dl=0
 
 Install the mods folder from Dropbox.
 
