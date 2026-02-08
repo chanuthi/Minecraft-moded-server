@@ -49,6 +49,8 @@ Click on this Folder icon on the Forge installation.
 
 You should see your .minecraft folder open up. In that same folder, open the mods folder. If you don't have it, create a new folder and name it mods.
 
+<img width="503" height="748" alt="image" src="https://github.com/user-attachments/assets/90f2b217-3050-4ccb-b823-fcaa23aeda2a" />
+
 Open the mods folder, delete all content in it 
 (ctrl+A then del key on keyboard)
 
@@ -57,6 +59,9 @@ Now open this link: https://www.dropbox.com/scl/fo/828iog3x0wyrwn5rkt4jt/AE4-oPs
 Install the mods folder from Dropbox.
 
 Open the mods folder you just downloaded, and the empty mods folder side by side. 
+
+<img width="1910" height="1080" alt="image" src="https://github.com/user-attachments/assets/d10346b0-a6f1-4a3b-a9ff-06a4bf3ecbcc" />
+
 
 Click on the mods folder with everything in it, copy and paste it to the empty mods folder that is in your .minecraft folder. 
 
